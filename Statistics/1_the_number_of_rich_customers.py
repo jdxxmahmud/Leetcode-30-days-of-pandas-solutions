@@ -1,6 +1,5 @@
 # Problem Link: https://leetcode.com/problems/the-number-of-rich-customers/solutions/3969237/easy-solution-with-dataframe-groupby/
 
-
 import pandas as pd
 
 def count_rich_customers(store: pd.DataFrame) -> pd.DataFrame:
